@@ -53,7 +53,7 @@ Real-time wildlife detection using EfficientDet on Raspberry Pi to prevent crop 
 ---
 
 ## 📬 Connect With Me  
-- **Email:** abhishek.chak013@gmail.com  
+- **Email:** abhishekchakchakborty@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/abhishek-c-171422185/  
 - **GitHub:** https://github.com/Abhishek183422  
 
