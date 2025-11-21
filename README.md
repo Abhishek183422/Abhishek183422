@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red" />
+</p>
 
 <h1 align="center">Hi, I'm Abhishek Chakraborty 👋</h1>
 
