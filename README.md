@@ -1,69 +1,119 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red" />
-</p>
+# Hi, I'm Abhishek Chakraborty 👋
 
-<h1 align="center">Hi, I'm Abhishek Chakraborty 👋</h1>
+### Computer Vision & Deep Learning Engineer
 
-<p align="center">
-  <strong>Machine Learning & Computer Vision Engineer</strong> <br>
-  Building real-world AI systems with Deep Learning, Edge AI, and Python.
-</p>
+I build real-time AI systems for **computer vision, video analytics, edge devices, and model deployment**.
+
+My work focuses on taking deep learning models from development to efficient real-time inference using **PyTorch, YOLO, OpenCV, ONNX, TensorRT, and NVIDIA Triton**.
 
 ---
 
-## 🚀 About Me
-- Aspiring **ML Engineer** focused on **Computer Vision**, **Edge AI**, and **Deep Learning**
-- Love deploying AI on real hardware — **Raspberry Pi**, **Jetson Nano**, and embedded systems  
-- Passionate about solving real problems with AI, not just running notebooks  
-- Hands-on internship experience at **IIT Bombay** & multiple startups  
-- I enjoy turning ideas into working ML systems that impact the real world  
+## 🔧 Skills
+
+**Languages**
+
+* Python
+* SQL
+
+**Deep Learning**
+
+* PyTorch
+* TensorFlow
+* YOLO
+* RT-DETR
+
+**Computer Vision**
+
+* OpenCV
+* Object Detection
+* Object Tracking
+* ByteTrack
+* Real-time Video Analytics
+
+**Model Deployment**
+
+* ONNX
+* TensorRT
+* NVIDIA Triton Inference Server
+* FastAPI
+
+**Edge AI**
+
+* NVIDIA Jetson
+* Raspberry Pi
+* TensorFlow Lite
 
 ---
 
-## 🧠 Skills & Tools
+## 🚀 Featured Projects
 
-**Languages:** Python  
-**ML/DL:** TensorFlow, PyTorch, Scikit-Learn, Keras  
-**Computer Vision:** OpenCV, YOLO, EfficientDet, GANs  
-**Edge AI:** Raspberry Pi 4, Jetson Nano, Arduino, Model Quantization  
-**Utilities:** NumPy, Pandas, Matplotlib, CV Pipelines  
-**Deployment:** Python Scripts, Real-time Inference, Optimization  
+### 🤖 Autonomous Mobile Robot with Edge Vision AI
 
----
+A prototype autonomous mobile robot using **Raspberry Pi, Arduino, camera input, and AI-based vision** to make basic movement decisions.
 
-## 🔥 Featured Projects
+**Tech:** Python · Raspberry Pi · Arduino · Computer Vision · Edge AI
 
-### ⭐ Real-Time Attendance System (Raspberry Pi + CV)
-Automated face-recognition-based attendance with real-time logging (10–15 FPS on Pi).  
-➡️ *Computer Vision • Face Recognition • Edge AI*
-
-### ⭐ DC-GAN Facial Inpainting (IIT Bombay)
-Custom-trained DC-GAN to intelligently reconstruct missing parts of faces.  
-➡️ *Deep Learning • GANs • Image Restoration*
-
-### ⭐ Monkey Detection System (IIT Bombay)
-Real-time wildlife detection using EfficientDet on Raspberry Pi to prevent crop damage.  
-➡️ *Object Detection • Edge Deployment • Model Optimization*
+[View Project →](https://github.com/Abhishek183422/Autonomous-Mobile-Robot-with-Edge-Vision-AI)
 
 ---
 
-## 📈 What I’m Working On
-- Improving accuracy of embedded CV models  
-- Building high-quality ML portfolio projects  
-- Participating in Kaggle + ML hackathons  
-- Developing my AI-powered attendance system further  
+### 🎯 Real-Time Object Detection & Tracking
+
+Computer vision experiments using **YOLO, object tracking, and real-time video processing**, with a focus on inference speed and deployment.
+
+**Tech:** Python · PyTorch · YOLO · OpenCV · ByteTrack
 
 ---
 
-## 📬 Connect With Me  
-- **Email:** abhishekchakchakborty@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/abhishek-c-171422185/  
-- **GitHub:** https://github.com/Abhishek183422  
+### ⚡ Model Inference & Optimization
+
+Experiments with **ONNX, TensorRT, and NVIDIA Triton** for efficient deep learning inference and model deployment.
+
+**Tech:** PyTorch · ONNX · TensorRT · NVIDIA Triton
 
 ---
 
-<p align="center">
-  🚀 <strong>Always learning. Always building. Always improving.</strong>
-</p>
+### 🐒 Monkey Detection – Edge AI
+
+Real-time wildlife detection deployed on **Raspberry Pi** using EfficientDet and TensorFlow Lite.
+
+**Tech:** Python · EfficientDet · TensorFlow Lite · Raspberry Pi
+
+[View Project →](https://github.com/Abhishek183422/IITBombay-rukart-monkey-detection)
+
+---
+
+### 🧠 DC-GAN Facial Inpainting
+
+A deep learning project that uses a custom-trained DC-GAN to reconstruct missing regions of facial images.
+
+**Tech:** Python · PyTorch · GANs · Deep Learning
+
+[View Project →](https://github.com/Abhishek183422/DC-GAN-Inpainting-Project)
+
+---
+
+## 💼 Experience
+
+Worked on **computer vision and AI systems involving real-time video analytics, object detection, tracking, edge inference, and model deployment**.
+
+Previously worked on AI/ML projects through internships and research-oriented projects, including work associated with **IIT Bombay**.
+
+---
+
+## 📌 Currently Working On
+
+* Real-time computer vision
+* YOLO model optimization and benchmarking
+* TensorRT and NVIDIA Triton
+* Edge AI deployment
+* AI-powered robotics
+* Deep Learning systems
+
+---
+
+## 📫 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/abhishek-c-171422185/)
+* [GitHub](https://github.com/Abhishek183422)
+* Email: [abhishekchakchakborty@gmail.com](mailto:abhishekchakchakborty@gmail.com)
